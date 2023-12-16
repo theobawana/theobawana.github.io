@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Theodore BANANA 
+Theodore BAWANA 
 
 
